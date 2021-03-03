@@ -4,10 +4,11 @@
 Question for you, What is better than **Octopus** recipe \
 <img src="https://user-images.githubusercontent.com/48018942/109854075-9efb7280-7c7c-11eb-9417-001dae9a4403.jpg" height="300" width="500" /> 
 
-Answer for you, 8 different recipes for **octopus**. My grandma gave me a family recipe before she died  
+Answer for you, 8 different recipes for **octopus**. My grandma gave me a family recipe before she died. \
+Built with ❤ on silicon valley, give a ⭐ if you like it.
 
 
-## :bulb: Motivation and Context
+## :bulb: Motivation and Content
 1) Silicon Valley S4 E3, jain yang's idea.
 1) Thanks for the Food and Wine for [content](https://www.foodandwine.com/cooking-techniques/7-best-recipes-octopus).
 
