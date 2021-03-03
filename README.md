@@ -1,7 +1,7 @@
-# 8 octopus recipes
+# 8 octopus recipes ⚡
 
 ## :scroll: Description
-Question for you, What is better than **Octopus** recipe \
+Question for you, What is better than **Octopus** recipe 🥳 \
 <img src="https://user-images.githubusercontent.com/48018942/109854075-9efb7280-7c7c-11eb-9417-001dae9a4403.jpg" height="300" width="500" /> 
 
 Answer for you, 8 different recipes for **octopus**. My grandma gave me a family recipe before she died. \
