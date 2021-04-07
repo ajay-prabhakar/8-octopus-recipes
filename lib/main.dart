@@ -72,7 +72,7 @@ class _MyAppState extends State<MyApp> {
     //final mq = MediaQuery.of(context);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: '8 Recipies for Octopus',
+      title: '8 Recipes for Octopus',
       theme: ThemeData(
         fontFamily: "Poppins",
         primaryColor: Color(0xFFE50914),
