@@ -47,7 +47,7 @@ class _CategoryOctopusScreenState extends State<CategoryOctopusScreen> {
               alignment: Alignment.centerLeft,
               child: RichText(
                 text: TextSpan(
-                  text: "8 different recipies for ",
+                  text: "8 different recipes for ",
                   style: TextStyle(
                     fontSize: 22,
                     color: Colors.black,
