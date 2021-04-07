@@ -1,16 +1,16 @@
-# 8 octopus recipes ⚡
+# 8 octopus recipes :zap: :octopus:
 
 ## :scroll: Description
-Question for you, What is better than **Octopus** recipe 🥳 \
+Here's a question, what's better than an **Octopus** recipe? :partying_face: \
 <img src="https://user-images.githubusercontent.com/48018942/109854075-9efb7280-7c7c-11eb-9417-001dae9a4403.jpg" height="300" width="500" /> 
 
-Answer for you, 8 different recipes for **octopus**. My grandma gave me a family recipe before she died. \
-Built with ❤ on silicon valley, give a ⭐ if you like it.
+The answer is... 8 different recipes for **octopus**! My grandma gave me a family recipe before she died.
+Built with :heart: on silicon valley, give a :star: if you like it.
 
 
 ## :bulb: Motivation and Content
-1) Silicon Valley S4 E3, jain yang's idea.
-1) Thanks for the Food and Wine for [content](https://www.foodandwine.com/cooking-techniques/7-best-recipes-octopus).
+1) Silicon Valley S4 E3, Jian-Yang's idea.
+2) Thanks to Food & Wine for [these octopus recipes](https://www.foodandwine.com/cooking-techniques/7-best-recipes-octopus).
 
 
 ## :camera_flash: Screenshots
