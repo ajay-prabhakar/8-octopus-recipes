@@ -61,7 +61,7 @@ class CategoryScreen extends StatelessWidget {
             ),
             RichText(
               text: TextSpan(
-                text: "8 different recipies for ",
+                text: "8 different recipes for ",
                 style: TextStyle(
                   fontSize: 20,
                   color: Colors.grey[700],
@@ -118,7 +118,7 @@ class CategoryScreen extends StatelessWidget {
     Navigator.of(context).pushNamed(
       CategoryOctopusScreen.routeName,
       arguments: {
-        'title': "8 Octopus Recipies",
+        'title': "8 Octopus Recipes",
         'color': Colors.purple,
         'id': "c1",
       },
